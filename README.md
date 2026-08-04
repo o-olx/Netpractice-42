@@ -95,11 +95,12 @@ Each level must be fully configured before progressing to the next one.
 
 ---
 
-## 🖼️ Project Grade
+## 🖼️ Note du projet
 
 <p align="center">
-  <img width="199" height="169" alt="image" src="YOUR_GRADE_IMAGE_HERE" />
+  <img width="199" height="169" alt="image" src="https://github.com/user-attachments/assets/3cb12a00-dc57-4f96-a6b9-66bbfe7cd7b8" />
 </p>
+
 
 ---
 
